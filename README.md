@@ -5,7 +5,9 @@
 Thumbs buttons board (PCB1)
 
 <hr>
-Download the last Gerber (.zip) file in the <a href="#">releases</a> section.
+Download the last Gerber (.zip) file in the <a href="https://github.com/Openpipes-org/Thumbs_buttons_PCB/releases">releases</a> section.
 <hr>
+
+https://github.com/Openpipes-org/Thumbs_buttons_PCB/releases
 
 ⚠️ Under construction
