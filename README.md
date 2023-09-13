@@ -4,4 +4,8 @@
 <br>
 Thumbs buttons board (PCB1)
 
+<hr>
+Download the last Gerber (.zip) file in the <a href="#">releases</a> section.
+<hr>
+
 ⚠️ Under construction
