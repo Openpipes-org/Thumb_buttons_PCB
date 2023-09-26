@@ -10,7 +10,7 @@ Thumb buttons board (PCB1)
 Go to the <a href="https://oshwlab.com/bonninr/thumb_buttons">OSHWLab project page</a>
 
 <hr>
-Download the last Gerber (.zip) file in the <a href="https://github.com/Openpipes-org/Thumb_buttons_PCB/releases">releases</a> section.
+Download the latest Gerber (.zip) file in the <a href="https://github.com/Openpipes-org/Thumb_buttons_PCB/releases/latest">releases</a> section.
 <hr>
 
 ⚠️ Under construction
